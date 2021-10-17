@@ -1,55 +1,55 @@
 locale: pt-PT
 translations:
-  - key: accounts.error_incorrect_password # TODO
-    t: Incorrect password
-  - key: accounts.error_email_required # TODO
-    t: Email required
-  - key: accounts.error_email_already_exists # TODO
-    t: Email already exists
-  - key: accounts.error_invalid_email # TODO
-    t: Invalid email
-  - key: accounts.error_minchar # TODO
-    t: Your password is too short
-  - key: accounts.error_unknown # TODO
-    t: Unknown error
-  - key: accounts.error_user_not_found # TODO
-    t: User not found
-  - key: accounts.error_username_already_exists # TODO
-    t: Username already exists
-  - key: accounts.enter_username_or_email # TODO
-    t: Enter username or email
-  - key: accounts.error_internal_server_error # TODO
-    t: Internal server error
-  - key: accounts.error_token_expired # TODO
-    t: Invalid password reset token
-  - key: accounts.username_or_email # TODO
-    t: Username or email
-  - key: accounts.enter_username # TODO
-    t: Enter username
-  - key: accounts.username # TODO
-    t: Username
+  - key: accounts.error_incorrect_password
+    t: Palavra-passe incorrecta
+  - key: accounts.error_email_required
+    t: Email requerido
+  - key: accounts.error_email_already_exists
+    t: O e-mail já existe
+  - key: accounts.error_invalid_email
+    t: E-mail inválido
+  - key: accounts.error_minchar
+    t: A sua palavra-passe é demasiado curta
+  - key: accounts.error_unknown
+    t: Erro desconhecido
+  - key: accounts.error_user_not_found
+    t: Utilizador não encontrado
+  - key: accounts.error_username_already_exists
+    t: O nome de utilizador já existe
+  - key: accounts.enter_username_or_email
+    t: Introduza o nome de utilizador ou e-mail
+  - key: accounts.error_internal_server_error
+    t: Erro interno do servidor
+  - key: accounts.error_token_expired
+    t: Token de redefinição da palavra-passe inválido
+  - key: accounts.username_or_email
+    t: Nome de utilizador ou e-mail
+  - key: accounts.enter_username
+    t: Introduza o nome de utilizador
+  - key: accounts.username
+    t: Nome de utilizador
   - key: accounts.enter_email
     t: Introduzir E-mail
   - key: accounts.email
     t: E-mail
-  - key: accounts.enter_password # TODO
-    t: Enter password
-  - key: accounts.password # TODO
-    t: Password
-  - key: accounts.choose_password # TODO
-    t: Choose password
-  - key: accounts.change_password # TODO
-    t: Change password
-  - key: accounts.reset_your_password # TODO
-    t: Reset your password
-  - key: accounts.set_password # TODO
-    t: Set password
-  - key: accounts.enter_new_password # TODO
-    t: Enter new password
-  - key: accounts.new_password # TODO
-    t: New password
-  - key: accounts.forgot_password # TODO
-    t: Forgot password
+  - key: accounts.enter_password
+    t: Introduza a palavra-passe
+  - key: accounts.password
+    t: Palavra-passe
+  - key: accounts.choose_password
+    t: Escolha a palavra-passe
+  - key: accounts.change_password
+    t: Alterar palavra-passe
+  - key: accounts.reset_your_password
+    t: Redefinir a sua palavra-passe
+  - key: accounts.set_password
+    t: Definir palavra-passe
+  - key: accounts.enter_new_password
+    t: Introduzir nova palavra-passe
+  - key: accounts.new_password
+    t: Nova palavra-passe
+  - key: accounts.forgot_password
+    t: Esqueci-me da palavra-passe
   - key: accounts.sign_up
     t: Registar
   - key: accounts.sign_in
@@ -58,12 +58,12 @@ translations:
     t: Sair
   - key: accounts.cancel
     t: Cancelar
-  - key: accounts.info_email_sent # TODO
-    t: Email sent.
-  - key: accounts.info_password_changed # TODO
-    t: Password changed.
+  - key: accounts.info_email_sent
+    t: E-mail enviado.
+  - key: accounts.info_password_changed
+    t: Palavra-passe alterada.
   - key: accounts.please_pick_password
-    t: Por favor escolha uma nova senha para continuar.
+    t: Por favor escolha uma nova palavra-passe para continuar.
   - key: accounts.please_log_in
     t: Por favor, inicie sessão ou registe-se para começar.
   - key: accounts.logged_in_as
