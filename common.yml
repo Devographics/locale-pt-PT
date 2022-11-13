@@ -44,7 +44,7 @@ translations:
     - key: general.preview_survey
       t: Pré-visualização do inquérito »
     - key: general.finish_survey
-      t: Terminal inquérito »
+      t: Terminal inquérito
     - key: general.survey_closed
       t: Este inquérito está agora encerrado.
     - key: general.survey_results
