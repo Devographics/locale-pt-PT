@@ -600,7 +600,7 @@ translations:
   # blogs & magazines
   - key: resources.blogs_news_magazines
     t: Blogs & Revistas
-  - key: resources.blogs_news_magazines.description
+  - key: resources.blogs_news_magazines.question
     t: Que blogs/ revistas/etc. lê?
   - key: resources.blogs_news_magazines.others
     t: Outros Blogs & Revistas
@@ -610,7 +610,7 @@ translations:
   # sites & courses
   - key: resources.sites_courses
     t: Sites & Cursos
-  - key: resources.sites_courses.description
+  - key: resources.sites_courses.question
     t: Que sites/cursos/etc. consulta?
   - key: resources.sites_courses.others
     t: Outros Sites & Cursos
@@ -620,7 +620,7 @@ translations:
   # podcasts
   - key: resources.podcasts
     t: Podcasts
-  - key: resources.podcasts.description
+  - key: resources.podcasts.question
     t: Que podcasts relacionados com a programação é que ouve?
   - key: resources.podcasts.others
     t: Outros Podcasts
